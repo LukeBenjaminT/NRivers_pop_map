@@ -12,8 +12,8 @@ This map was created to show the biggest local changes between the two census.
 It includes SA1 areas (the smallest available) with population greater than 200 and swing greater than 10%.
 
 \nTotals for NE NSW:
-- 355707 people in the 2016 the census.
-- 403230 people in the 2021 the census.
+- 355 707 people in the 2016 the census.
+- 403 230 people in the 2021 the census.
 - 13.36% population increase from 2016 to 2021.
 
 Note: The 2021 census occured in unique circumstances which may impact data.""")
