@@ -16,7 +16,7 @@ It includes SA1 areas (the smallest available) with population greater than 200 
 - 403 230 people in the 2021 the census.
 - 13.36% population increase from 2016 to 2021.
 
-Note: The 2021 census occured in unique circumstances which may impact data.""")
+Note: The 2021 census occured in unique circumstances which may impact data reliability.""")
 
 fig = px.choropleth_mapbox(populated, 
                            geojson=populated.geometry, 
